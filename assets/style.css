@@ -1,1 +1,11 @@
-style.css
+body{
+	height:100vh;
+	width:100vw;
+}
+.pic{
+	background-image:url(http://i.imgur.com/si3e2hu.gif);
+	height: 100%;
+	width:100%;
+	background-repeat: no-repeat;
+	margin:auto;
+}
